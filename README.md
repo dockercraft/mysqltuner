@@ -2,8 +2,8 @@
 MySQL configuration and make recommendations
 
 # Quick start
-# Local Build: docker build -t mysqltuner .
-# Local Run: docker run -it --rm mysqltuner 
+* Local Build: docker build -t mysqltuner .
+* Local Run: docker run -it --rm mysqltuner 
 
 # Supported tags and respective `Dockerfile` links
 * `1.7.2`, `latest`
